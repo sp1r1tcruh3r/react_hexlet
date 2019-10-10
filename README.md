@@ -1,1 +1,1 @@
-# react_hexlet
+# react_hexlet_container
